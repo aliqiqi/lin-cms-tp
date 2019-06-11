@@ -1,0 +1,22 @@
+{
+    "name": "lin-cms-tp/utils",
+    "description": "lin-cms-tp5 PPPPPP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aliqiqi",
+            "email": "745713611@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "LinCmsTp5\\utils\\": "utils"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0",
+        "topthink/framework": "5.1.*"
+    }
+}
